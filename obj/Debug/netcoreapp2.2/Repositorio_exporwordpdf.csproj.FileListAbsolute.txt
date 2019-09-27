@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\bin\Debug\netcoreapp2.2\Repositorio_exporwordpdf.deps.json
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\bin\Debug\netcoreapp2.2\Repositorio_exporwordpdf.runtimeconfig.json
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\bin\Debug\netcoreapp2.2\Repositorio_exporwordpdf.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\bin\Debug\netcoreapp2.2\Repositorio_exporwordpdf.dll
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\bin\Debug\netcoreapp2.2\Repositorio_exporwordpdf.pdb
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.AssemblyInfo.cs
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.dll
+C:\Users\fic\Desktop\Repositorio_exporwordpdf\obj\Debug\netcoreapp2.2\Repositorio_exporwordpdf.pdb
